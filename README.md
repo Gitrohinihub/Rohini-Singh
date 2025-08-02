@@ -10,7 +10,7 @@ Welcome to my GitHub! I specialise in transforming raw data into clear business 
 
 - 👩‍🎓 **B.Tech in CSE** from Dr. A.P.J. Abdul Kalam Technical University  
 - 🎓 Completed **81-hour Data Analyst Bootcamp** with KrishAI Technologies (Covered real-world projects: BI dashboards, financial metrics, SQL, Python)
--🧠 AI-Powered Data Analytics Mastery – Vibe Coding (Mastered data integration, cleaning, modeling & visualization from 10+ sources, including on-prem & cloud platforms)
+-🧠 AI-Powered Data Analytics Mastery – Vibe Coding (Mastered data integration, cleaning, modelling & visualisation from 10+ sources, including on-prem & cloud platforms)
 - 🌐 **2-month internship in Web Development** (Oasis Infobyte)  
 - 🏅 **Solved 50+ SQL problems** on LeetCode  
 - 💡 Bilingual in **English** and **Hindi**
