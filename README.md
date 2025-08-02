@@ -1,41 +1,52 @@
 # 👋 Hi, I'm Rohini Singh
 
-🎯 **Data Analyst | Power BI Specialist | AI & Cloud Enthusiast**
+🎯 **Aspiring Data Analyst | Power BI Specialist | Cloud & BI Project Builder**
 
-I'm a data analyst passionate about transforming raw data into smart business insights. With expertise in **Power BI, SQL, Python, Excel**, and cloud platforms like **AWS, Snowflake, and Azure**, I create dashboards, automation scripts, and end-to-end data solutions that drives decision-making.
-
----
-
-### 🧰 Tools & Technologies
-
-- **Languages & Scripts:** Python, SQL, DAX, Excel
-- **BI Tools:** Power BI, Tableau
-- **Cloud Platforms:** AWS | Snowflake | Azure
-- **Data Analysis:** EDA, Data Cleaning, Dashboarding
-- **Others:** AI Tools for Automation, Business Communication (English & Hindi)
+Welcome to my GitHub! I specialise in transforming raw data into clear business insights using tools like **Power BI, SQL, Python**, and **cloud platforms (AWS, Snowflake, Azure)**. I’m passionate about storytelling with data, and I use automation and cloud-native tools to deliver smarter, scalable solutions.
 
 ---
 
-### 📂 Featured Projects
+### 📌 About Me
 
-Here’s what you’ll find in my GitHub:
-
-- 📊 **Power BI Dashboards** – Interactive reports with bookmarks, filters, KPIs
-- 🧠 **AI + BI Integration** – Projects combining AI tools with data visuals
-- ☁️ **Cloud Projects** – Snowflake pipelines, AWS Glue scripts, S3 data lakes
-- 📌 **SQL Case Studies** – Business scenarios solved using advanced SQL
-- 📈 **Excel Automations** – Data cleaning and report automation
-
-> I’m actively building my portfolio — new projects added regularly!
+- 👩‍🎓 **B.Tech in CSE** from Dr. A.P.J. Abdul Kalam Technical University  
+- 🎓 Completed **81-hour Data Analyst Bootcamp** with KrishAI Technologies (Covered real-world projects: BI dashboards, financial metrics, SQL, Python)
+-🧠 AI-Powered Data Analytics Mastery – Vibe Coding (Mastered data integration, cleaning, modeling & visualization from 10+ sources, including on-prem & cloud platforms)
+- 🌐 **2-month internship in Web Development** (Oasis Infobyte)  
+- 🏅 **Solved 50+ SQL problems** on LeetCode  
+- 💡 Bilingual in **English** and **Hindi**
 
 ---
 
-### 🚀 About Me
+### 💼 What I Do
 
-- 🔍 Currently seeking data analytics opportunities
-- 💬 Bilingual: Fluent in English & Hindi
-- 🎓 Business-savvy analyst with technical depth
-- 🌐 Open to full-time roles
+- 📊 Build **interactive dashboards** in Power BI & Tableau  
+- 🐍 Automate data tasks using **Python & Excel**  
+- 🔍 Analyze business data using **SQL, MySQL Workbench**  
+- ☁️ Work with **Snowflake**, **AWS Glue**, **GCP** for cloud data pipelines  
+- 📁 Document and version projects for job-readiness
+
+---
+
+### 🧰 Tools & Tech Stack
+
+| Tool | Description |
+|------|-------------|
+| **Languages** | Python, SQL, DAX |
+| **BI Tools** | Power BI, Tableau |
+| **Cloud** | AWS, Snowflake, Azure, GCP |
+| **Databases** | MySQL, SQL Server |
+| **Others** | Excel, EDA, Git |
+
+---
+
+### 📂 Projects (Coming Soon)
+
+- **Power BI Sales Dashboard**  
+- **SQL Case Study – Sales Insights**  
+- **Cloud-Based ETL Pipeline with Snowflake & AWS**  
+- **Excel Financial Analysis Tool**  
+
+Stay tuned — I'm actively uploading and documenting projects for recruiters and collaborators!
 
 ---
 
