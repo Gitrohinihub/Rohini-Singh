@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Rohini Singh
 
-🎯 **Aspiring Data Analyst | Power BI Specialist | Cloud & BI Project Builder**
+🎯 Aspiring Data Analyst | Power BI Specialist | Cloud & BI Project Builder
 
 Welcome to my GitHub! I specialise in transforming raw data into clear business insights using tools like **Power BI, SQL, Python**, and **cloud platforms (AWS, Snowflake, Azure)**. I’m passionate about storytelling with data, and I use automation and cloud-native tools to deliver smarter, scalable solutions.
 
 ---
 
-### 📌 About Me
+ ## 📌 About Me
 
 - 👩‍🎓 **B.Tech in CSE** from Dr. A.P.J. Abdul Kalam Technical University  
 - 🎓 Completed **81-hour Data Analyst Bootcamp** with KrishAI Technologies (Covered real-world projects: BI dashboards, financial metrics, SQL, Python)
@@ -17,7 +17,7 @@ Welcome to my GitHub! I specialise in transforming raw data into clear business 
 
 ---
 
-### 💼 What I Do
+## 💼 What I Do
 
 - 📊 Build **interactive dashboards** in Power BI & Tableau  
 - 🐍 Automate data tasks using **Python & Excel**  
@@ -27,7 +27,7 @@ Welcome to my GitHub! I specialise in transforming raw data into clear business 
 
 ---
 
-### 🧰 Tools & Tech Stack
+## 🧰 Tools & Tech Stack
 
 | Tool | Description |
 |------|-------------|
@@ -39,7 +39,7 @@ Welcome to my GitHub! I specialise in transforming raw data into clear business 
 
 ---
 
-### 📂 Projects (Coming Soon)
+## 📂 Projects (Coming Soon)
 
 - **Power BI Sales Dashboard**  
 - **SQL Case Study – Sales Insights**  
@@ -50,7 +50,7 @@ Stay tuned — I'm actively uploading and documenting projects for recruiters an
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rohini-singh-8a97a1229 ) 
 - 📧 miss.rohini09coder@gmail.com
