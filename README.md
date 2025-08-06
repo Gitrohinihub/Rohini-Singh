@@ -8,7 +8,7 @@ Skip long intros — my work speaks for itself:🔗 linkedin.com/in/rohini-singh
 Favorites: 📊 Tableau, 🐍 Python, 🧮 SQL Server, ☁️ AWS, Excel
 
 📫 Contact
-✉ Email: miss.rohini09coder@gmail.com  GitHub: github.com/Gitrohinihub
+✉ Email: miss.rohini09coder@gmail.com   💻 GitHub: github.com/Gitrohinihub
 
 🙋‍♀️ Pronouns
 She/Her
@@ -18,6 +18,7 @@ She/Her
 
 👨‍🏫 Mentors Who Inspire Me
 Krish Naik, Jayant Taponai, Nitish Sir
+
 
 
 ## 🌐 Socials:
