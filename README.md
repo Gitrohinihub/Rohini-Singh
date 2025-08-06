@@ -1,6 +1,23 @@
 # 💫 About Me:
-Hey, I’m Rohini Singh, but feel free to call me Rohini! 🙋‍♀️ I’ll be honest: my world revolves around Data Analysis, Data Storytelling, and Business Intelligence—no skills outside this space. 
-🎯 Keep it concise on LinkedIn > explore my journey: 🔗 [https://www.linkedin.com/in/rohini-singh-8a97a1229]. Every post highlights my real-world projects, from 20M+ row queries to impactful dashboards! 💼
+🌟 Rohini Singh — AI Data Analyst 🙋‍♀️
+Let’s be real — data is my language. Whether it’s SQL, Python, dashboards, or cloud platforms, I thrive on turning raw numbers into clear insights. 🎯
+
+Skip long intros — my work speaks for itself:🔗 linkedin.com/in/rohini-singh-8a97a1229
+
+🛠️ Practical Skills 
+Favorites: 📊 Tableau, 🐍 Python, 🧮 SQL Server, ☁️ AWS, Excel
+
+📫 Contact
+✉ Email: miss.rohini09coder@gmail.com  GitHub: github.com/Gitrohinihub
+
+🙋‍♀️ Pronouns
+She/Her
+
+🎯 Hobbies
+👩‍🍳 Cooking new recipes 🎧 Listening to English music 🗣️ Chatting in English with people 🧩 Solving SQL problems for fun
+
+👨‍🏫 Mentors Who Inspire Me
+Krish Naik, Jayant Taponai, Nitish Sir
 
 
 ## 🌐 Socials:
