@@ -2,24 +2,28 @@
 🌟 Rohini Singh — AI Data Analyst 🙋‍♀️
 Let’s be real — data is my language. Whether it’s SQL, Python, dashboards, or cloud platforms, I thrive on turning raw numbers into clear insights. 🎯
 
-🔗 Skip long intros — my work speaks for itself:linkedin.com/in/rohini-singh-8a97a1229
+🔗 Skip long intros — my work speaks for itself: https://linkedin.com/in/rohini-singh-8a97a1229. Every post shows my real work.
 
 🛠️ PRACTICAL SKILLS
+
 Favorites: 📊 Tableau, 🐍 Python, 🧮 SQL Server, ☁️ AWS, 🧹 Excel
 
 📫 CONTACT
-✉️ Email: miss.rohini09coder@gmail.com 💻 GitHub: github.com/Gitrohinihub
+GitHub: https://github.com/Gitrohinihub/Health_care_Project.git
 
 🙋‍♀️ PRONOUNS
+
 She/Her
 
 🎯 HOBBIES
+
 👩‍🍳 Cooking new recipes
 🎧 Listening to English music
 🗣️ Chatting in English with people
 🧩 Solving SQL problems for fun
 
 👨‍🏫 MENTORS WHO INSPIRE ME
+
 Krish Naik, Jayant Taponai, Nitish Sir
 
 
