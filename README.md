@@ -19,7 +19,6 @@ She/Her
 
 👩‍🍳 Cooking new recipes
 🎧 Listening to English music
-🗣️ Chatting in English with people
 🧩 Solving SQL problems for fun
 
 👨‍🏫 MENTORS WHO INSPIRE ME
